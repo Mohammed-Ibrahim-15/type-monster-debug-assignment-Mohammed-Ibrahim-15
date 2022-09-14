@@ -154,14 +154,14 @@ button {
 }
 
 .card {
-  width: 450px;
+  width: 310px;
   height: 100%;
   padding: 50px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 30px;
+  padding: 20px 25px;
   color: white;
   border-radius: 15px;
   background: rgb(255, 255, 255);
